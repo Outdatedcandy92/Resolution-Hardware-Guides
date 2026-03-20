@@ -1,27 +1,9 @@
-
-- Quick review
-- Transistors
-- Multivibrator
-	- Bistable
-	- Monostable
-	- Astable
-
-- KiCad
-	- Downloading and Setup
-	- Schematic
-	- PCB
-	- Exporting
-- Submission
-
----
-
+# Week 2
 ## Quick Review
 
 Let’s quickly summarize what we covered last week to refresh our memory. We learned about resistors and how they resist the flow of current, capacitors and how they store energy, how LEDs work, and finally RC circuits.
 
 Resistors limit how much current can flow through a circuit, which helps protect components and control how different parts of the circuit behave. Capacitors store electrical energy in an electric field and can release it later, which makes them useful for things like filtering, timing, and smoothing signals. LEDs are light-emitting diodes that produce light when current flows through them in the correct direction. RC circuits combine resistors and capacitors together, and they are often used to create timing effects or delays in signals.
-
-[img maybe]
 
 So far, we’ve been working with what are known as **passive components**. They are called passive because they only store, consume, or release energy. In other words, they act on signals that already exist in the circuit rather than creating new ones or amplifying them.
 
