@@ -212,6 +212,7 @@ Here’s a table showing the footprints you should use for each symbol.
 | Switch     | Button_Switch_THT:SW_PUSH_6mm                                 |
 | Header     | Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical    |
 | LED        | LED_THT:LED_D5.0mm                                            |
+
 Once you’re done assigning footprints, click **Apply** or **OK**. While you’re here, also make sure to **save your schematic** by pressing `Ctrl + S`.
 
 ### PCB Editor

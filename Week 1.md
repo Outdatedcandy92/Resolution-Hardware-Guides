@@ -58,9 +58,8 @@ Over the last century, electronics went from large glowing vacuum tubes to micro
 
 ![](attachments/Pasted%20image%2020260302233912.png)
 
-*An 0201 capacitor, Measuring at about **0.6 mm x 0.3 mm** *
-
-![](attachments/Pasted%20image%2020260302234236.png)
+*A modern through hole transistor*
+![](https://user-cdn.hackclub-assets.com/019cb6c9-2a34-73de-84b3-effe60b16914/Pasted%20image%2020260303215834.png)
 
 It all comes down to a few core ideas:
 
