@@ -22,6 +22,7 @@
 	- Requirements
 ---
 
+# Week 5
 # Let's Make A PCB Keychain
 
 > We’ll be designing a PCB keychain in EasyEDA and using its multicolor silkscreen feature to make the coolest keychain ever. Once your project gets approved, you’ll get a grant to order your own keychain :D plus a picoducky if you put in 4 hours.

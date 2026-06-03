@@ -19,7 +19,8 @@ Each guide walks you step-by-step through a weekly project, making it easy to le
 | 5    | Make A Keychain!       | [Week 5 Guide](./Week%205.md) |
 | 6    | Digital Electronics    | [Week 6 Guide](./Week%206.md) |
 | 7    | Make Your Own Devboard | [Week 7 Guide](./Week%207.md) |
-| 8    | Coming Soon            | Coming Soon                   |
+| 8    | Design A Case          | [Week 8 Guide](./Week%208.md) |
+| 9    | Ordering Stuff         | [Week 9 Guide](./Week%209.md) |
 
 ---
 
